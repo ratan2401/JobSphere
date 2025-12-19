@@ -131,4 +131,4 @@ Base URL: `http://localhost:5000/api`
 
 ---
 
-Made with ❤️ by the JobSphere team.
+
